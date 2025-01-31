@@ -1,0 +1,10 @@
+Frankenstein Jr,97
+Chewbacca Chewy,10
+Luke Skywalker,-1
+Han Solo,85
+Princess Leia,92
+Darth Vader,-1
+Yoda Master,88
+Obi Wan,75
+R2D2,-1
+C3PO,82

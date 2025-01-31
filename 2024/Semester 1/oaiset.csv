@@ -1,0 +1,11 @@
+doi,title,subject,author1,author2,author3,author4,author5,author6,author7,author8,keyword,status
+10.1234/example1,Research on AI,Computer Science,John Doe,Jane Smith,Tom Brown,Lisa White,Emily Davis,,,,AI,Published
+10.1234/example2,Study on Robotics,Engineering,Alex Johnson,Chris Lee,Michael Brown,David Green,Jennifer Blue,,,,Robotics,In Review
+10.1234/example3,Quantum Computing,Physics,Emily Davis,Michael Brown,Lisa White,James Black,John Doe,,,,Quantum,Published
+10.1234/example4,Data Science Exploration,Data Science,Lisa White,John Doe,David Green,Tom Brown,Michael Brown,,,,Data Science,In Review
+10.1234/example5,Cybersecurity Overview,Cybersecurity,David Green,Emily Davis,John Doe,Chris Lee,Tom Brown,,,,Cybersecurity,Published
+10.1234/example6,Machine Learning Applications,Computer Science,Michael Brown,Chris Lee,David Green,Alex Johnson,Tom Brown,Lisa White,,,,Machine Learning,Published
+10.1234/example7,Artificial Intelligence Ethics,Philosophy,John Doe,Emily Davis,Chris Lee,Lisa White,Alex Johnson,,,,Ethics,In Review
+10.1234/example8,Cloud Computing for Big Data,Technology,Jennifer Blue,Tom Brown,Michael Brown,David Green,Chris Lee,,,,Cloud Computing,Published
+10.1234/example9,Internet of Things,Engineering,Tom Brown,Emily Davis,David Green,John Doe,,,,,IoT,Deleted
+10.1234/example10,Data Privacy and Security,Law,David Green,Alex Johnson,Lisa White,Chris Lee,Michael Brown,,,,Data Privacy,Published
