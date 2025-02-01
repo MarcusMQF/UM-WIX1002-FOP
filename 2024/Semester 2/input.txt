@@ -13,7 +13,3 @@ OXX
 X..
 O..
 ...
-#
-XOX
-XOO
-OXX

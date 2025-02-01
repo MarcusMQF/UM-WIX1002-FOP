@@ -15,7 +15,9 @@ public class Q2_2018S1 {
         // Generate N random numbers
         System.out.print("The random numbers are: ");
         for(int i = 0; i < N; i++){
-            GeneratedNum[i] = random.nextInt(200);
+            int MIN = 50;
+            int MAX = 150;
+            GeneratedNum[i] = random.nextInt(MAX - MIN + 1) + MIN;
             System.out.print(GeneratedNum[i] + " ");
         }
 
