@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class Q3_2016S1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Random random = new Random();
         
         System.out.print("Enter the number of random integer: ");
         int n = scanner.nextInt();
@@ -12,6 +11,20 @@ public class Q3_2016S1 {
         int[] Array = new int[n];
         String[] StringArray = new String[n];
         
+        display(Array, null, n, StringArray);
+        
+        findMax(Array);
+        
+        // Find the approxmimation of the integer (95 = 100, 511 = 510, 875 = 880)  
+        Approximation(Array);
+        
+        System.out.println();
+        ReverseOrder(Array);
+
+        scanner.close();
+    }
+
+    public static void display(int[] Array, Random random, int n, String[] StringArray){
         // Print the random Integer array
         for(int i = 0; i < n; i ++){
             Array[i] = random.nextInt(1001);
@@ -20,8 +33,9 @@ public class Q3_2016S1 {
         
         // Print out the Random Integer Array
         System.out.println("The random integer: " + String.join(" ",StringArray));
-        
-        // Find the maximum number
+    }
+
+    public static void findMax(int[] Array){
         int max = -1;
         for(int array: Array){
             if(array > max){
@@ -30,8 +44,9 @@ public class Q3_2016S1 {
         }
         
         System.out.println("Maximum number: " + max);
-        
-        // Find the approxmimation of the integer (95 = 100, 511 = 510, 875 = 880)  
+    }
+
+    public static void Approximation(int[] Array){
         System.out.print("The approximation of the integer to the nearest tenth: ");
         for (int num : Array) {
             int lastDigit = num % 10;
@@ -45,9 +60,9 @@ public class Q3_2016S1 {
             
             System.out.print(roundedNum + " ");
         }
-        
-        // Reverse order 
-        System.out.println();
+    }
+
+    public static void ReverseOrder(int[] Array){
         System.out.print("The random integer in reverse order: ");
         for(int num: Array){
             int reversedNum = 0;
@@ -59,7 +74,5 @@ public class Q3_2016S1 {
             
             System.out.print(reversedNum + " ");
         }
-
-        scanner.close();
     }
 }
