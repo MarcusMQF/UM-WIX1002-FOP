@@ -55,4 +55,3 @@ class Game {
         return false; // Continue game
     }
 }
-
