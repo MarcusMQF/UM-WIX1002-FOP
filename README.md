@@ -1,6 +1,6 @@
 # WIX1002 Fundamental of Programming
 
-![license_shield](https://img.shields.io/github/license/MarcusMQF/UM-WIX1002-FOP)
+[![License](https://img.shields.io/github/license/MarcusMQF/UM-WIX1002-FOP)](https://github.com/MarcusMQF/UM-WIX1002-FOP/blob/main/LICENSE)
 ![last_commit](https://img.shields.io/github/last-commit/MarcusMQF/UM-WIX1002-FOP)
 ![java_version](https://img.shields.io/badge/Java-17%2B-blue)
 ![repo_size](https://img.shields.io/github/repo-size/MarcusMQF/UM-WIX1002-FOP)
