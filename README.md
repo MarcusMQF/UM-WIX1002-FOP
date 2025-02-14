@@ -59,4 +59,4 @@ If you have questions, suggestions, or need clarification, feel free to:
 
 ---
 
-**Note**: This repository is continuously updated to improve content quality and add new materials. Star the repository to stay updated with the latest changes!
+**Note**: This repository is continuously updated to improve content quality and add new materials. Star ⭐ the repository to stay updated with the latest changes!
