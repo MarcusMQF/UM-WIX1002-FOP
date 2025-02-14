@@ -34,7 +34,7 @@ public class Q3_2018S2{
             double lowestMark = 100; // Assign with highest possible value for comparison
             String lowestStudent = "";
             for (i = 0; i < marks.length; i++) {
-                if (marks[i] < lowestMark) {
+                if (marks[i] != -1 && marks[i] < lowestMark) {
                     lowestMark = marks[i];
                     lowestStudent = names[i];
                 }

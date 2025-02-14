@@ -42,7 +42,6 @@ public class Q3_2017S1 {
         return str;
     }
 
-    // Bubble Sort method for sorting characters
     public static char[] bubbleSort(char[] array, char order) {
         int n = array.length;
         boolean swapped;
