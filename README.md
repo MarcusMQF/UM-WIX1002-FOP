@@ -1,9 +1,9 @@
 # WIX1002 Fundamental of Programming
 
-[![License](https://img.shields.io/github/license/MarcusMQF/UM-WIX1002-FOP)](https://github.com/MarcusMQF/UM-WIX1002-FOP/blob/main/LICENSE)
-![last_commit](https://img.shields.io/github/last-commit/MarcusMQF/UM-WIX1002-FOP)
-![java_version](https://img.shields.io/badge/Java-17%2B-blue)
-![repo_size](https://img.shields.io/github/repo-size/MarcusMQF/UM-WIX1002-FOP)
+[![License](https://img.shields.io/github/license/MarcusMQF/UM-WIX1002-FOP?color=blue)](https://github.com/MarcusMQF/UM-WIX1002-FOP/blob/main/LICENSE)
+![last_commit](https://img.shields.io/github/last-commit/MarcusMQF/UM-WIX1002-FOP?color=green)
+![java_version](https://img.shields.io/badge/Java-17%2B-orange)
+![repo_size](https://img.shields.io/github/repo-size/MarcusMQF/UM-WIX1002-FOP?color=yellow)
 
 ## 📚 Introduction
 
@@ -21,7 +21,7 @@ This repository is organized into several main sections:
 - **Labs**: Hands-on programming exercises covering various topics
 - **Tutorials**: Weekly practice problems and concept implementations
 - **Past Year Papers**: Complete solutions for examination questions (2016-2024)
-- **Viva**: Oral examination materials and sample solutions
+- **Viva**: Group homework presentation materials and sample solutions
 
 ### Programming Concepts Covered
 - Basic Java Programming and Control Structures
